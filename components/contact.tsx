@@ -125,7 +125,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-bold mb-1">Phone Number</h4>
-                  <p className="text-gray-600">+91 98765 43210</p>
+                  <p className="text-gray-600">+91 9111040606</p>
                 </div>
               </div>
 
