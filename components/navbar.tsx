@@ -104,7 +104,7 @@ export default function Navbar() {
         {/* CTA Button (Desktop) */}
         <div className="hidden lg:block">
           <a 
-            href="tel:+919876543210" 
+            href="tel:+9111040606" 
             className={`flex items-center px-4 py-2 rounded-full text-sm font-medium transition-colors duration-300 ${
               scrolled
                 ? "bg-primary text-white hover:bg-primary-dark"
@@ -112,7 +112,7 @@ export default function Navbar() {
             }`}
           >
             <Phone className="w-4 h-4 mr-2" />
-            +91 98765 43210
+            +91 9111040606
           </a>
         </div>
 
@@ -155,11 +155,11 @@ export default function Navbar() {
                   </Link>
                 ))}
                 <a 
-                  href="tel:+919876543210" 
+                  href="tel:+919111040606" 
                   className="flex items-center mt-2 bg-primary text-white px-4 py-3 rounded-md"
                 >
                   <Phone className="w-4 h-4 mr-2" />
-                  +91 98765 43210
+                  +91 9111040606
                 </a>
               </nav>
             </div>
